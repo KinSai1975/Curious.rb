@@ -1,7 +1,7 @@
-Cuba
+Curious.rb
 ====
 
-_n_. a microframework for web development.
+_n_ microframework for technicians of web ! 
 
 ![Cuba and Rum, by Jan Sochor](http://farm3.static.flickr.com/2619/4032103097_8324c6fecf.jpg)
 
