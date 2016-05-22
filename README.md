@@ -3,7 +3,7 @@ Curious.rb
 
 _n_ microframework for technicians of web ! 
 
-![Curious logo](http://farm3.static.flickr.com/2619/4032103097_8324c6fecf.jpg)
+![Curious logo](https://goo.gl/photos/zCd3C5MMsguicCxw8)
 
 Community
 ---------
