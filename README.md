@@ -3,7 +3,7 @@ Curious.rb
 
  microframework for technicians of web ! 
 
-![Curious logo](http://i249.photobucket.com/albums/gg207/SweetStaceGA/Hotlantaatnight.jpg)
+![Curious logo](http://i1208.photobucket.com/albums/cc369/Sboubi/logo_curious_zpswl5lxg76.png)
 
 Community
 ---------
