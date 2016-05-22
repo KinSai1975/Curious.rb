@@ -3,7 +3,7 @@ Curious.rb
 
 _n_ microframework for technicians of web ! 
 
-![Curious logo](https://goo.gl/photos/YDQC1nwLFLQYmKHs7)
+![Curious logo](http://media.photobucket.com/user/SweetStaceGA/media/Hotlantaatnight.jpg.html?filters[term]=city%20lights&filters[primary]=images)
 
 Community
 ---------
